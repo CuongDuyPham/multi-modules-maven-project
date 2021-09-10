@@ -1,1 +1,1 @@
-# multi-modules-maven-project
+# Multi-modules Maven project
